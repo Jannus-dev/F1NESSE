@@ -121,9 +121,9 @@ For more details, visit:
 - [Radboud University](https://www.ru.nl/english/)
 - [Cavaa](https://cavaa.eu/)
   
-![Donders Centre for Cognition](https://www.ru.nl/publish/pages/769526/donders.png(https://www.ru.nl/sites/default/files/styles/content_full/public/2022-10/logo-donders-institute.png.webp?itok=nkQy2JYH))  
-![RU](https://example.com/roboracers-logo.png](https://roboracer.ai/logos/logo-white-vector-animated.svg(https://cdn.oneworld.nl/app/uploads/2020/06/Radboud-University-goed.png)))
-![Cavaa Logo](https://cavaa.eu/assets/img/logo.png(https://cavaa.eu/files/cavaa/layout/images/logo.png))
+![Donders Centre for Cognition](https://www.ru.nl/sites/default/files/styles/content_full/public/2022-10/logo-donders-institute.png.webp?itok=nkQy2JYH)
+![RU](https://cdn.oneworld.nl/app/uploads/2020/06/Radboud-University-goed.png)
+![Cavaa Logo](https://cavaa.eu/files/cavaa/layout/images/logo.png)
 
 
 Special thanks to the RoboRacers community for their contributions.
