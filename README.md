@@ -128,7 +128,7 @@ For more details, visit:
 </p>
 
 Special thanks to the RoboRacers community for their contributions.
-![RoboRacers Logo]([https://example.com/roboracers-logo.png](https://roboracer.ai/logos/logo-white-vector-animated.svg))  
+![RoboRacers Logo]([[https://example.com/roboracers-logo.png](https://roboracer.ai/logos/logo-white-vector-animated.svg)](https://roboracer.ai/logos/logo-white-vector-animated.svg))  
 
 ---
 For more information, visit the [RoboRacers website](https://roboracers.org).
