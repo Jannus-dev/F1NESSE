@@ -121,10 +121,11 @@ For more details, visit:
 - [Radboud University](https://www.ru.nl/english/)
 - [Cavaa](https://cavaa.eu/)
   
-![Donders Centre for Cognition](https://www.ru.nl/sites/default/files/styles/content_full/public/2022-10/logo-donders-institute.png.webp?itok=nkQy2JYH)
-![RU](https://cdn.oneworld.nl/app/uploads/2020/06/Radboud-University-goed.png)
-![Cavaa Logo](https://cavaa.eu/files/cavaa/layout/images/logo.png)
-
+<p align="center">
+  <img src="https://www.ru.nl/sites/default/files/styles/content_full/public/2022-10/logo-donders-institute.png.webp?itok=nkQy2JYH" alt="Donders Centre for Cognition" width="200"/>
+  <img src="https://cdn.oneworld.nl/app/uploads/2020/06/Radboud-University-goed.png" alt="RU" width="200"/>
+  <img src="https://cavaa.eu/files/cavaa/layout/images/logo.png" alt="Cavaa Logo" width="200"/>
+</p>
 
 Special thanks to the RoboRacers community for their contributions.
 ![RoboRacers Logo]([https://example.com/roboracers-logo.png](https://roboracer.ai/logos/logo-white-vector-animated.svg))  
