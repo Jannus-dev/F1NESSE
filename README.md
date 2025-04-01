@@ -1,7 +1,7 @@
 # RoboRacers System
 
 <p align="center">
-  <img src="(https://www.ru.nl/sites/default/files/styles/content_full/public/2022-10/logo-donders-institute.png.webp?itok=nkQy2JYH)" alt="RoboRacers Logo" width="200"/>
+  <img src="https://www.ru.nl/sites/default/files/styles/content_full/public/2022-10/logo-donders-institute.png.webp?itok=nkQy2JYH" alt="RoboRacers Logo" width="200"/>
   <img src="https://www.ru.nl/publish/pages/769526/donders.png" alt="Donders Centre for Cognition" width="200"/>
   <img src="https://cavaa.eu/assets/img/logo.png" alt="Cavaa Logo" width="200"/>
 </p>
