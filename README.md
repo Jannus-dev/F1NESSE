@@ -108,8 +108,6 @@ colcon build --packages-select drive_publisher
 This guide ensures the proper setup and operation of the RoboRacers system. Follow the steps carefully to avoid errors. Contributions and improvements to this guide are welcome!
 
 ---
-### License
-This project is licensed under the MIT License.
 
 ### Acknowledgments
 This project is developed by [Jannus-dev](https://github.com/Jannus-dev) and is part of research initiatives from the **Donders Centre for Cognition, Radboud University**, and **Cavaa (Counterfactual Assessment and Valuation for Awareness Architecture)**. 
