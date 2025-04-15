@@ -35,7 +35,7 @@ Execute the following commands to start the container:
 
 ```bash
 cd ~/f1tenth_system/scripts
-./run_container.sh
+./run_container2.sh
 ```
 
 This ensures that all necessary environments are correctly loaded.
