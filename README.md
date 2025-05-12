@@ -110,7 +110,7 @@ This guide ensures the proper setup and operation of the RoboRacers system. Foll
 ---
 
 ### Acknowledgments
-This project is developed by [Jannus-dev](https://github.com/Jannus-dev) and is part of research initiatives from the **Donders Centre for Cognition, Radboud University**, **Cavaa (Counterfactual Assessment and Valuation for Awareness Architecture)**, and **ROC Nijmegen**.
+This project is developed by [Jannus-dev](https://github.com/Jannus-dev) and [Joris Krantz](https://github.com/Deedikjupijn) and is part of research initiatives from the **Donders Centre for Cognition, Radboud University**, **Cavaa (Counterfactual Assessment and Valuation for Awareness Architecture)**, and **ROC Nijmegen**.
 
 For more details, visit:
 - [Donders Centre for Cognition](https://www.ru.nl/donders/)
